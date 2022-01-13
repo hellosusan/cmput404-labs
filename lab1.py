@@ -10,5 +10,5 @@ import requests
 # print(response.text)
 
 # curl step 10:
-response = requests.get('https://raw.githubusercontent.com/hellosusan/cmput404-labs/main/lab1.py')
+response = requests.get('https://raw.githubusercontent.com/hellosusan/cmput404-labs/e19deaad64bb1d8d42ad92858f5602a473cf87cd/lab1.py')
 print(response.text)
